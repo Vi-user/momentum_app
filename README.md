@@ -1,0 +1,1 @@
+# analogue of the Chrome Web Store app of the same name
